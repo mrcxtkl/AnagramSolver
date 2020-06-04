@@ -33,5 +33,5 @@ Exemplos:
 
 <div align="center">
   <h1>That's all folks!</h1>
-  <img src="https://i.imgur.com/sqNFhym.jpg" align="center" width="512" height="288">
+  <img src="https://i.imgur.com/sqNFhym.jpg" align="center" width="512" height="288" style="border-radius: 15px">
 </div>
