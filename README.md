@@ -31,5 +31,7 @@ Exemplos:
 
 <img src="https://i.imgur.com/L78qbrY.png">
 
-<h1 align="center">That's all folks!</h1>
-<img src="https://i.imgur.com/sqNFhym.jpg" align="center" width="512" height="288">
+<div align="center">
+  <h1>That's all folks!</h1>
+  <img src="https://i.imgur.com/sqNFhym.jpg" align="center" width="512" height="288">
+</div>
