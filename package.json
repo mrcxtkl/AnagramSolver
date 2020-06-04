@@ -1,0 +1,19 @@
+{
+  "name": "anagram_solver",
+  "description": "Uma ferramenta para resolver anagramas.",
+  "repository": {},
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/App.js"
+  },
+  "keywords": [],
+  "author": "mrctkl",
+  "homepage": "https://github.com/mrcxtkl/AnagramSolver#readme",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "latinize": "^0.4.1",
+    "wordlist-to-json": "^1.2.5"
+  }
+}
