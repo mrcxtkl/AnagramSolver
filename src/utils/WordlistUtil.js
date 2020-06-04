@@ -11,7 +11,7 @@ module.exports = class WordList {
     }
 
     normalizeString (word) {
-        return latinize(decodeURI(word)).split('').sort().join('')
+        return latinize(decodeURI(word)).replace(/ /g, '').split('').sort().join('')
     }
 
     async solveAnagram (test) {
